@@ -8,18 +8,18 @@ on:
 jobs:
   build:
    runs-on: ubuntu-latest
- steps:
+   steps:
       - name: Checkout
         run: |
           git clone https://github.com/wuhoushaonian/PJJ.git ~/PJJ
-     - name: 'Set up Python'
+      - name: 'Set up Python'
         uses: actions/setup-python@v1
         with:
            python-version: 3.7 
-     - name: 'Install requirements'
+      - name: 'Install requirements'
         run: |
-        cd ~/PJJ
-        pip3.7 install -r requirements.txt
+         cd ~/PJJ
+         pip3.7 install -r requirements.txt
       - uses: nanasess/setup-chromedriver@master
         with:
           chromedriver-version: '88.0.4324.96'
@@ -27,10 +27,10 @@ jobs:
           export DISPLAY=:99
           chromedriver --url-base=/wd/hub &
           sudo Xvfb -ac :99 -screen 0 1280x1024x24 > /dev/null 2>&1 & # optional
-       - name: 'Working'
+      - name: 'Working'
         run: |
-        cd ~/PJJ
-        python3.7 run.py
+         cd ~/PJJ
+         python3.7 run.py
         env:
           TG_BOT_TOKEN: ${{secrets.TG_BOT_TOKEN}} # tg通知token
           TG_USER_ID:  ${{secrets.TG_USER_ID}}    # tg通知id
