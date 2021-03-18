@@ -1,12 +1,12 @@
  name: 书
 
-on:
+ on:
   workflow_dispatch:
   schedule:
      - cron: '20 * * * *'
   watch:
     types: started
-jobs:
+ jobs:
   build:
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id
