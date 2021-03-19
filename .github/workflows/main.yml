@@ -1,0 +1,34 @@
+name: 希
+on:
+  schedule:
+    - cron: '*/30 * * * * '
+  watch:
+    types: [started]
+  workflow_dispatch:
+jobs:
+  build:
+   runs-on: ubuntu-latest
+   steps:
+      - name: Checkout
+        run: |
+          git clone https://github.com/wuhoushaonian/yangquan.git ~/yangquan
+      - name: 'Set up Python'
+        uses: actions/setup-python@v1
+        with:
+           python-version: 3.7 
+      - name: 'Install requirements'
+        run: |
+         cd ~/yangquan
+         git checkout zero #分支
+         pip install -r ./requirements.txt
+      - name: 'Working 希'
+        run: |
+         cd ~/yangquan
+         python3 xmly_speed.py
+        env:
+            XMLY_SPEED_COOKIE: ${{ secrets.XMLY_SPEED_COOKIE }}  #必须
+            # XMLY_ACCUMULATE_TIME: ${{ secrets.XMLY_ACCUMULATE_TIME }} #非私密信息，去掉
+            BARK: ${{ secrets.BARK }}     # bark服务
+            SCKEY: ${{ secrets.SCKEY }}   # server酱服务
+            TG_BOT_TOKEN: ${{secrets.TG_BOT_TOKEN}} # tg通知token
+            TG_USER_ID:  ${{secrets.TG_USER_ID}}    # tg通知id
