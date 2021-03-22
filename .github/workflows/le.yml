@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id
     env:
-        XL_URL: ${{ secrets.XL_URL }}		
-        XL_HEADER: ${{ secrets.XL_HEADER }}
+        XL_URL: ${{secrets.XL_URL}}		
+        XL_HEADER: ${{secrets.XL_HEADER}}
     steps:
       - name: Checkout
         run: |
