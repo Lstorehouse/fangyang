@@ -3,7 +3,7 @@ name: 乐
 on:
   workflow_dispatch:
   schedule:
-     - cron: '26 0,2,4,6,7,8,9,10,11,13 * * *'
+     - cron: '27 0,2,4,6,7,8,9,10,11,13 * * *'
   watch:
     types: started
 jobs:
