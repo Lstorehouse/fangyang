@@ -3,7 +3,7 @@ name: 芝
 on:
   workflow_dispatch:
   schedule:
-     - cron: '30 * * * *'
+     - cron: '0 * * * *'
   watch:
     types: started
 jobs:
