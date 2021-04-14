@@ -1,7 +1,7 @@
 name: PJJ
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '39 8 * * *'
   watch:
     types: [started]
   workflow_dispatch:
