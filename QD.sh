@@ -4,6 +4,6 @@
 
 (
   sleep 5
-  echo "msg IBCNbot_bot /checkin"
+  echo "msg 灰姑凉 /checkin"
   echo "safe_quit"
 ) | docker exec -i telegram-cli telegram-cli -N
