@@ -6,5 +6,8 @@ telegramPath=/tg-ci/tg/bin/
   sleep 5
 echo "msg 恐龙助手 /checkin"
 echo "msg 灰姑凉 /checkin"
+
+
+
 echo "safe_quit"
 ) | ${telegramPath}telegram-cli -D
