@@ -9,4 +9,4 @@ echo "msg 恐龙助手 /checkin"
 echo "msg 灰姑凉 /checkin"
 echo "msg iKuuuu_VPN /checkin"
 echo "safe_quit"
-) | ${telegramPath}telegram-cli -D
+) | ${telegramPath}telegram-cli -W -D
