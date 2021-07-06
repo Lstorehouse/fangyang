@@ -13,4 +13,4 @@ echo "msg JD_ShareCode /jxfactory emZFS2H0bpu9XEnXIx_NWw==&xXtMAQhdKI_IRQo9Lt38D
 echo "msg JD_ShareCode /pet "
 echo "msg JD_ShareCode /sgmh "
 echo "safe_quit"
-) | ${telegramPath}telegram-cli -D
+) | ${telegramPath}telegram-cli -W -D
