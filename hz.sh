@@ -3,14 +3,13 @@ telegramPath=/tg-ci/tg/bin/
 (
   echo "resolve_username JD_ShareCode_Bot"
   sleep 5
-#种豆得豆  
 echo "msg JD_ShareCode /bean vfrrpnjhifbxegmvg2ouuwhliy&olmijoxgmjutydwiizpxj56i54ld732ircudwqq&olmijoxgmjutykr4zipkrqyjbqwogmjmrdcpniq&4npkonnsy7xi3l7gct4j4ifzzvufk4emd32ydeq&olmijoxgmjutyt26m5o7nua5uplt7fbmyopa5yi"
 echo "msg JD_ShareCode /farm 72e4e2eb3c0d44728c8204922395defc&a9b81841e4754da19e6dbf1ae5341a96&203a07fe7fc145db8ef2f74b102fa034&420ab266a8224bdc97ce637aff3ffab2&e80e2cc843a94de89e235369ddb12b31"
 echo "msg JD_ShareCode /ddfactory T0225KkcRhoY_ACCdkilk_QJJQCjVWnYaS5kRrbA&T0225KkcR0oQ8VyBJxn2lPcKcgCjVWnYaS5kRrbA&T0153Ymm_Y_PUsQBhaICjVWnYaS5kRrbA&T0225KkcRhpIp1WGJEzxwaIIdQCjVWnYaS5kRrbA&T0225KkcRhkd8waGJkmgwKIKcACjVWnYaS5kRrbA"
-echo "msg JD_ShareCode /health "
-echo "msg JD_ShareCode /jxcfd "
+echo "msg JD_ShareCode /health T0225KkcRUxM91bWcxilwPAKdQCjVfnoaW5kRrbA&T015uPRxFV57pynVahICjVfnoaW5kRrbA&T0225KkcRxYRp1fUJB72kPAKIQCjVfnoaW5kRrbA&T0156qo7QBsY81PTJh0CjVfnoaW5kRrbA&T0225KkcRhpIp1WGJEzxwaIIdQCjVfnoaW5kRrbA"
+echo "msg JD_ShareCode /jxcfd 3EAB17AE8CBFAA9BC76A057FB4CD51E0C62E2F7E3925DE67B57305B39CA4BECA&88C1066F396DEE7AA18D3B0B39AA7ACF53D148727ED7BE751B1063889E11E04C&A34F75604B8D9FD8FDB85FD26F6D63F439FAEE6438A62D458423776BFEA22429&2323EA742F1FF6544901591FD45EECA9036C7FD583DDDC4633244357503D1BE4&3FEE25C6327D820DA8858C98A99D4C247216E4A958F1EE59E996346562A21E0C"
 echo "msg JD_ShareCode /jxfactory emZFS2H0bpu9XEnXIx_NWw==&xXtMAQhdKI_IRQo9Lt38DQ==&aqxClwEVrbg7HUkX-ZwPlg==&j717fEJIYaiCa3sYB9UKjA==&argoXvqB0SKJhQ-yFVqfBA=="
-echo "msg JD_ShareCode /pet "
-echo "msg JD_ShareCode /sgmh "
+echo "msg JD_ShareCode /pet MTE5MzEwNTEzODAwMDAwMDA1MDY1MTkxNQ==&MTEyNjE4NjQ2MDAwMDAwMDUwNzg3NjQ5&MTE1NDUwMTI0MDAwMDAwMDQyNTE1Nzg5&MTE1NDUwMTI0MDAwMDAwMDM4NzY3OTkx&MTEzMzI0OTE0NTAwMDAwMDA0Mjc4MTc4Nw=="
+echo "msg JD_ShareCode /sgmh T0225KkcRxYRp1fUJB72kPAKIQCjVQmoaT5kRrbA&T0156qo7QBsY81PTJh0CjVQmoaT5kRrbA&T0225KkcRhpIp1WGJEzxwaIIdQCjVQmoaT5kRrbA&T0225KkcR01KpALTJ0_ykPUPcwCjVQmoaT5kRrbA&T0205KkcNVldsTC9e2-m8pZfCjVQmoaT5kRrbA"
 echo "safe_quit"
 ) | ${telegramPath}telegram-cli -W -D
