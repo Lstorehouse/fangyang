@@ -2,7 +2,6 @@
 telegramPath=/tg-ci/tg/bin/ 
 (
   echo "resolve_username IBCNbot_bot"
-  echo "resolve_username uurss_bot"
   echo "resolve_username iKuuuu_VPN_bot"
   echo "resolve_username ShangwangkeOrgBot"
   sleep 63
