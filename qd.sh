@@ -1,5 +1,5 @@
 #!/bin/bash
-telegramPath=/tg-ci/tg/bin/ 
+telegramPath=/tgci/tg/bin/ 
 (
   echo "resolve_username IBCNbot_bot"
   echo "resolve_username iKuuuu_VPN_bot"
