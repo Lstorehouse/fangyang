@@ -10,5 +10,6 @@ telegramPath=/tg-ci/tg/bin/
 echo "msg 灰姑凉 /checkin"
 echo "msg iKuuuu_VPN /checkin"
 echo "msg 卷心菜 /checkin"
+echo "msg 上网课 /checkin"
 echo "safe_quit"
 ) | ${telegramPath}telegram-cli -W -D
