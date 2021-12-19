@@ -1,0 +1,1323 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
+<title>克丽丝和游乐之城 Ver1.00 云汉化正式版【热门RPG/汉化/新作/超多换装/打工/1.3G】 - </title>
+<link href="https://www.gameuq.com/thread-33613-1-1.html" rel="canonical" />
+<meta name="keywords" content="九游乐乐老站" />
+<meta name="description" content=" 克丽丝和游乐之城 Ver1.00 云汉化正式版【热门RPG/汉化/新作/超多换装/打工/1.3G】 " />
+<meta name="generator" content="Discuz! X3.4" />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="https://www.gameuq.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_40_common.css?NK5" /><link rel="stylesheet" type="text/css" href="data/cache/style_40_forum_viewthread.css?NK5" /><link rel="stylesheet" id="css_extstyle" type="text/css" href="./template/qu_115style/style/t3/style.css" /> 
+    <script src="template/qu_115style/img/js/jquery.js" type="text/javascript" type="text/javascript"></script>  
+<script type="text/javascript">var STYLEID = '40', STATICURL = 'static/', IMGDIR = 'template/qu_115style/images', VERHASH = 'NK5', charset = 'gbk', discuz_uid = '150131', cookiepre = 'XWHK_8040_', cookiedomain = '.gameuq.com', cookiepath = '/', showusercard = '0', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '', defaultstyle = './template/qu_115style/style/t3', REPORTURL = 'aHR0cHM6Ly93d3cuZ2FtZXVxLmNvbS9mb3J1bS5waHA/bW9kPXZpZXd0aHJlYWQmdGlkPTMzNjEz', SITEURL = 'https://www.gameuq.com/', JSPATH = 'data/cache/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';var q_jq=jQuery.noConflict();</script>
+<script src="data/cache/common.js?NK5" type="text/javascript"></script>
+<div id="qmenu_menu" class="p_pop" style="display: none;">
+<ul class="cl nav"><li><a href="home.php?mod=magic" style="background-image:url(https://www.gameuq.com/static/image/feed/magic_b.png) !important">道具</a></li>
+<li><a href="home.php?mod=medal" style="background-image:url(https://www.gameuq.com/static/image/feed/medal_b.png) !important">勋章</a></li>
+<li><a href="home.php?mod=task" style="background-image:url(https://www.gameuq.com/static/image/feed/task_b.png) !important">任务</a></li>
+</ul>
+<div id="fjump_menu" class="btda"></div></div><meta name="application-name" content="九游乐乐老站" />
+<meta name="msapplication-tooltip" content="九游乐乐老站" />
+<meta name="msapplication-task" content="name=主页;action-uri=https://www.gameuq.com/forum.php;icon-uri=https://www.gameuq.com/template/qu_115style/images/bbs.ico" />
+<script src="data/cache/forum.js?NK5" type="text/javascript"></script>
+<script src="data/cache/portal.js?NK5" type="text/javascript"></script>
+    <script type="text/javascript">
+<!--
+window.onerror=function(){return true;}
+// -->
+</script>
+<script src="template/qu_115style/img/js/jquery.SuperSlide.js" type="text/javascript" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+        <div class="animate-layer">
+        	<s class="a-bird a-bird-01"></s>
+            <s class="a-bird a-bird-02"></s>
+            <s class="a-bird a-bird-03"></s>
+            <s class="a-bird a-bird-04"></s>
+            <s class="a-bird a-bird-05"></s>
+            <s class="a-bird a-bird-06"></s>
+        	<s class="a-cloud a-cloud-01"></s>
+            <s class="a-cloud a-cloud-02"></s>
+            <s class="a-cloud a-cloud-03"></s>
+            <s class="a-cloud a-cloud-04"></s>
+            <s class="a-cloud a-cloud-05"></s>
+            <s class="a-cloud a-cloud-06"></s>
+            <s class="a-balloon a-balloon-01"></s>
+            <s class="a-balloon a-balloon-02"></s>
+            <s class="a-meteor a-meteor-01"></s>
+            <s class="a-meteor a-meteor-02"></s>
+            <s class="a-meteor a-meteor-03"></s>
+            <s class="a-meteor a-meteor-04"></s>
+            <s class="a-star a-star-01"></s>
+            <s class="a-star a-star-02"></s>
+            <s class="a-star a-star-03"></s>
+            <s class="a-star a-star-04"></s>
+            <s class="a-star a-star-05"></s>
+</div>
+        <a class="q_qiehuan" href="javascript:;" title="切换风格" id="change_theme_btn">切换风格</a>        <div id="change_theme_btn_menu" class="q_qiehuan_menu">
+        	<h2>
+<a class="dialog-handle" href="javascript:void(0)" onClick="qout()"></a>
+</h2>
+            <div style="padding:15px 0 0 0;">
+<span onMouseOut="this.className='cl'" onMouseOver="this.className='cl q_sslct_btn'" onClick="extstyle('./template/qu_115style/style/t11')"><img src="template/qu_115style/style/t11-bg.png"/><em>粉色心情</em></span>
+<span onMouseOut="this.className='cl'" onMouseOver="this.className='cl q_sslct_btn'" onClick="extstyle('./template/qu_115style/style/t2')"><img src="template/qu_115style/style/t2-bg.png"/><em>加州</em></span>
+<span onMouseOut="this.className='cl'" onMouseOver="this.className='cl q_sslct_btn'" onClick="extstyle('./template/qu_115style/style/t14')"><img src="template/qu_115style/style/t14-bg.png"/><em>绿野仙踪</em></span>
+<span onMouseOut="this.className='cl'" onMouseOver="this.className='cl q_sslct_btn'" onClick="extstyle('./template/qu_115style/style/t6')"><img src="template/qu_115style/style/t6-bg.png"/><em>城市</em></span>
+<span onMouseOut="this.className='cl'" onMouseOver="this.className='cl q_sslct_btn'" onClick="extstyle('./template/qu_115style/style/t12')"><img src="template/qu_115style/style/t12-bg.png"/><em>伦敦</em></span>
+<span onMouseOut="this.className='cl'" onMouseOver="this.className='cl q_sslct_btn'" onClick="extstyle('./template/qu_115style/style/t8')"><img src="template/qu_115style/style/t8-bg.png"/><em>简约米色</em></span>
+<span onMouseOut="this.className='cl'" onMouseOver="this.className='cl q_sslct_btn'" onClick="extstyle('./template/qu_115style/style/t5')"><img src="template/qu_115style/style/t5-bg.png"/><em>薰衣草</em></span>
+<span onMouseOut="this.className='cl'" onMouseOver="this.className='cl q_sslct_btn'" onClick="extstyle('./template/qu_115style/style/t3')"><img src="template/qu_115style/style/t3-bg.png"/><em>白云</em></span>
+<span onMouseOut="this.className='cl'" onMouseOver="this.className='cl q_sslct_btn'" onClick="extstyle('./template/qu_115style/style/t10')"><img src="template/qu_115style/style/t10-bg.png"/><em>雪山</em></span>
+<span onMouseOut="this.className='cl'" onMouseOver="this.className='cl q_sslct_btn'" onClick="extstyle('./template/qu_115style/style/t1')"><img src="template/qu_115style/style/t1-bg.png"/><em>晚霞</em></span>
+<span onMouseOut="this.className='cl'" onMouseOver="this.className='cl q_sslct_btn'" onClick="extstyle('./template/qu_115style/style/t13')"><img src="template/qu_115style/style/t13-bg.png"/><em>花卉</em></span>
+<span onMouseOut="this.className='cl'" onMouseOver="this.className='cl q_sslct_btn'" onClick="extstyle('./template/qu_115style/style/t7')"><img src="template/qu_115style/style/t7-bg.png"/><em>简约黑色</em></span>
+<span onMouseOut="this.className='cl'" onMouseOver="this.className='cl q_sslct_btn'" onClick="extstyle('./template/qu_115style/style/t4')"><img src="template/qu_115style/style/t4-bg.png"/><em>星空</em></span>
+</div>
+</div>
+<script>
+jQuery(function(){
+jQuery('#change_theme_btn').click(function(){
+if(!jQuery('#change_theme_btn_menu').is(':visible')){
+jQuery('#change_theme_btn_menu').css({display:'block', top:'-100px'}).animate({top: '+100'}, 500);
+}
+});
+});
+  function qout(){
+  jQuery('#change_theme_btn_menu').animate({top:'0'}, 500, function(){
+  jQuery(this).css({display:'none', top:'-100px'});
+});
+}
+</script>
+
+<div id="toptb" class="cl">
+
+
+<div class="wp">
+
+<div class="z"><a href="javascript:;"  onclick="setHomepage('https://www.gameuq.com/');">设为首页</a><a href="https://www.gameuq.com/"  onclick="addFavorite(this.href, '九游乐乐老站');return false;">收藏本站</a>
+
+</div>
+
+<div class="y">
+<a id="switchblind" href="javascript:;" onClick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+
+<a href="javascript:;" id="u179stranlink"> 繁体中文切换</a><a href="home.php?mod=spacecp&ac=credit&op=exchange"  style="font-weight: bold;color: orange">积分兑换</a><a href="forum.php?mod=viewthread&tid=12666&extra=page%3D1"  style="color: blue">邮箱验证</a><a href="#"  style="color: green">最右边网站个性皮肤功能--＞＞＞</a></div>
+
+</div></div>
+        <div class="qing_changestyle"></div>
+
+<ul id="myprompt_menu" class="p_pop" style="display: none;">
+<li><a href="home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>消息</a></li>
+<li><a href="home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>新听众</a></li>
+<li class="ignore_noticeli"><a href="javascript:;" onClick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="暂不提醒"><em class="ignore_notice"></em></a></li>
+</ul>
+            <div id="qmenu_menu" class="p_pop" style="display: none;">
+<ul class="cl nav"><li><a href="home.php?mod=magic" style="background-image:url(https://www.gameuq.com/static/image/feed/magic_b.png) !important">道具</a></li>
+<li><a href="home.php?mod=medal" style="background-image:url(https://www.gameuq.com/static/image/feed/medal_b.png) !important">勋章</a></li>
+<li><a href="home.php?mod=task" style="background-image:url(https://www.gameuq.com/static/image/feed/task_b.png) !important">任务</a></li>
+</ul>
+<div id="fjump_menu" class="btda"></div></div> 
+<ul id="myitem_menu" class="p_pop" style="display: none;">
+<li><a href="forum.php?mod=guide&amp;view=my">帖子</a></li>
+<li><a href="home.php?mod=space&amp;do=favorite&amp;view=me">收藏</a></li>
+<li><a href="home.php?mod=space&amp;do=friend">好友</a></li>
+</ul>
+<div id="qmenu_menu" class="p_pop" style="display: none;">
+<ul class="cl nav"><li><a href="home.php?mod=magic" style="background-image:url(https://www.gameuq.com/static/image/feed/magic_b.png) !important">道具</a></li>
+<li><a href="home.php?mod=medal" style="background-image:url(https://www.gameuq.com/static/image/feed/medal_b.png) !important">勋章</a></li>
+<li><a href="home.php?mod=task" style="background-image:url(https://www.gameuq.com/static/image/feed/task_b.png) !important">任务</a></li>
+</ul>
+<div id="fjump_menu" class="btda"></div></div><div id="hd">
+<div class="wp" style="margin:0 auto; padding:0;">
+<div class="hdc cl"><script type="text/javascript">
+jQuery(function()
+{
+jQuery('#hov_btn').hover(function() 
+{
+jQuery('div.qing_lg_after ul').show();
+},function() 
+{
+jQuery('div.qing_lg_after ul').hide();
+});
+});
+
+</script>
+<div id="um">
+<div class="qing_lg_after cl" id="hov_btn">
+    <h4 class="qing_br5">
+        <img src="https://www.gameuq.com/uc_server/avatar.php?uid=150131&size=small" /><a href="home.php?mod=space&amp;uid=150131">小呆白</a><em></em>
+    </h4>    
+    <ul style="display: none;">
+    <div class="top-angle"></div>
+        <div class="user-bottom cl">
+        	<div class="user-line1">
+            	用户名 :<a href="home.php?mod=space&amp;uid=150131" target="_blank" title="访问我的空间">小呆白</a>
+                            </div>
+            <div class="user-line2">
+            	<div class="line2_l">积分: <font color="#FFC000">29</font></div>
+                <div class="line2_r">用户组: <font color="#FFC000">初到萌新</font></div>
+            </div>
+            <div class="user-line3">
+            	<div class="line3_l"><a href="home.php?mod=space&amp;do=pm" id="pm_ntc">消息</a></div>
+                <div class="line3_r"><a href="home.php?mod=space&amp;do=notice">提醒<font color="#FFC000"></font></a></div>
+            </div>
+            <div class="user-line4">
+            	<div class="line4_l"><a href="member.php?mod=logging&amp;action=logout&amp;formhash=1b7968dd"><font color="#E82C0C">[退出]</font></a></div>
+                            </div>
+<div class="user-bottom-con">
+                                                <a href="forum.php?mod=guide&amp;view=my">帖子</a>
+<a href="home.php?mod=space&amp;do=favorite&amp;view=me">收藏</a>
+<a href="home.php?mod=space&amp;do=friend">好友</a>
+                <a href="home.php?mod=spacecp">设置</a>
+                                                                                                            </div>
+        </div>
+    </ul>
+</div>
+
+</div>
+</div>
+
+<div id="qing_nv">
+<a href="javascript:;" id="qmenu" class="animate" onMouseOver="showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2})">快捷导航</a>
+<ul><li class="a" id="mn_forum" ><a href="forum.php" hidefocus="true" title="返回主页面"   style="color: red">主页<span>返回主页面</span></a></li><li id="mn_N91b5" ><a href="plugin.php?id=it618_award:award" hidefocus="true"  >积分抽奖</a></li><li id="mn_N46ac" ><a href="thread-32839-1-1.html" hidefocus="true" title="秒传链接简介"   style="font-weight: bold;font-style: italic;text-decoration: underline;color: red">秒链教程<span>秒传链接简介</span></a></li><li id="mn_N1985" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="thread-25360-1-1.html" hidefocus="true" title="新人赚金攻略和 积分游戏"   style="font-weight: bold;color: yellow">会员专区<span>新人赚金攻略和 积分游戏</span></a></li><li id="mn_N6666" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="/" hidefocus="true"  >社区娱乐</a></li><li id="mn_N8a50" ><a href="https://www.jiuyoull.com" hidefocus="true"   style="color: red">首页</a></li></ul>
+</div>
+<ul class="p_pop h_pop" id="plugin_menu" style="display: none">  <li><a href="wmff_syt-wmff_syt.html" id="mn_plink_wmff_syt">留言板</a></li>
+   <li><a href="guesspro-guess.html" id="mn_plink_guess">猜拳游戏</a></li>
+ </ul>
+<ul class="p_pop h_pop" id="mn_N1985_menu" style="display: none"><li><a href="thread-25360-1-1.html" hidefocus="true"  style="color: orange">积分充值</a></li><li><a href="home.php?mod=medal" hidefocus="true" >荣誉勋章</a></li><li><a href="home.php?mod=spacecp&ac=plugin&id=avatar_hat:hat" hidefocus="true" >头像装饰</a></li><li><a href="home.php?mod=magic" hidefocus="true" >道具功能</a></li></ul><ul class="p_pop h_pop" id="mn_N6666_menu" style="display: none"><li><a href="plugin.php?id=iguess_7ree:iguess_7ree" hidefocus="true" >纸牌猜猜</a></li><li><a href="plugin.php?id=taobo_fishing:index" hidefocus="true" >幸运捕鱼</a></li><li><a href="plugin.php?id=guesspro:guess" hidefocus="true" >猜拳游戏</a></li><li><a href="plugin.php?id=habuluo_fruit" hidefocus="true" >水果乐园</a></li></ul><div id="mu" class="cl">
+</div>
+</div>
+</div>
+
+
+         <script type="text/javascript">
+           if (typeof jQuery != 'undefined'){
+              var boan_old_jq = jQuery;
+           } 
+         </script><script type="text/javascript" src="source/plugin/boan_h5upload/js/jquery-1.11.0.min.js?NK5" charset="utf-8"></script>
+          <script type="text/javascript">
+             var boan_jq=$.noConflict();
+             if (typeof  boan_old_jq != 'undefined'){
+               jQuery = boan_old_jq;
+              }
+         </script><link href="./source/plugin/boan_h5upload/css/webuploader_fast.css" rel="stylesheet" type="text/css" />        <script>
+            var SWFUpload;
+        	SWFUpload = function(settings) {
+        		this.initUpload(settings);
+       	    };
+           
+            SWFUpload.prototype.initUpload = function(userSettings) {
+            	try {
+            		this.customSettings = {};	
+            		this.settings = {};
+            		this.eventQueue = [];
+            		this.initSettings1(userSettings);
+            	} catch (ex) {
+            		throw ex;
+            	}
+            };
+            SWFUpload.prototype.initSettings1 = function (userSettings) {
+            	this.ensureDefault = function(settingName, defaultValue) {
+            		var setting = userSettings[settingName];
+            		if (setting != undefined) {
+            			this.settings[settingName] = setting;
+            		} else {
+            			this.settings[settingName] = defaultValue;
+            		}
+            	};
+            
+            	this.ensureDefault("upload_url", "");
+            	this.ensureDefault("file_post_name", "Filedata");
+            	this.ensureDefault("post_params", {});
+            
+            	this.ensureDefault("file_types", "*.*");
+            	this.ensureDefault("file_types_description", "All Files");
+            	this.ensureDefault("file_size_limit", 0);	
+            	this.ensureDefault("file_upload_limit", 0);
+            	this.ensureDefault("file_queue_limit", 0); 
+                this.ensureDefault("custom_settings", {});
+	            this.customSettings = this.settings.custom_settings;
+            }
+        </script><style type="text/css">
+.avatar_hat{
+position:absolute!important;margin:0!important;border:none!important;border-redius:none!important;background:none!important;
+width:auto!important;height:auto!important;display:none;
+left:30px;top:-20px;max-width:100px;max-height:100px;}
+</style><script src="./source/plugin/greeghost_loading/static/js/pace.js"></script><link href="./source/plugin/greeghost_loading/static/css/red/pace-theme-flash.css" rel="stylesheet" /><script type="text/javascript" src="plugin.php?id=aljrq:xintie"></script><script type="text/javascript" src="plugin.php?id=aljrq:ht"></script><script type="text/javascript" src="plugin.php?id=aljrq:view"></script><script type="text/javascript" src="plugin.php?id=aljrq:dantie"></script><script type="text/javascript" src="plugin.php?id=aljrq:dtviews"></script><script type="text/javascript" src="plugin.php?id=aljrq:pro"></script>
+<div id="wp" class="wp">
+<div class="qing_subnav">
+                	<div class="sub_l q_fl">
+                    	<a class="qing_logo" href="./">
+                                                <img src="data/attachment/common/27/common_109_icon.png" alt="【haogame】">
+                                                                            <em>首页</em>
+                        </a>
+                        <div id="qing_pt" class="subnr z cl">
+                                                	<a href="./" class="nvhm" title="首页">九游乐乐老站</a> <em>&rsaquo;</em> <a href="forum.php?gid=36">热门版块</a> <em>&rsaquo;</em> <a href="forum.php?mod=forumdisplay&amp;fid=109">【haogame】</a> <em></em> <a href="forum.php?mod=viewthread&amp;tid=33613">克丽丝和游乐之城 Ver1.00 云汉化正式版【热门RPG/汉化/ ...</a>
+                                                </div>
+                        <div class="z" style="margin-left:20px; line-height:45px;"></div>
+                    </div>
+                <div id="scbar" class="q_fr cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="1b7968dd" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="109" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" style="color:#666666;" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" style="background-color: #FFDFDF" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"></button></td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="curforum" fid="109" >本版</a></li><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+                </div>
+                    
+<div class="q_v_top q_none" id="q_vtop">
+<div class="v_wp">
+    <div class="v_left">
+    	<a href="forum.php?mod=forumdisplay&amp;fid=109" class="v_back">返回列表</a>
+                                        <a href="forum.php?mod=viewthread&amp;tid=33613&amp;page=1&amp;authorid=17250" rel="nofollow">楼主帖子</a>
+                                  <span class="pipe">|</span><a href="forum.php?mod=viewthread&amp;tid=33613&amp;from=album">图片模式</a>
+                                             <span class="pipe">|</span><a href="forum.php?mod=viewthread&amp;tid=33613&amp;extra=&amp;ordertype=1"  class="show">倒序浏览</a>
+                                </div>
+    <div class="v_right2">
+        <div class="bdsharebuttonbox q_fr">
+        	<a href="http://www.moqu8.com" class="bds_more" data-cmd="more"></a>
+</div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"2","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+    	<a href="home.php?mod=spacecp&amp;ac=favorite&amp;type=thread&amp;id=33613&amp;formhash=1b7968dd" id="k_favorite" onclick="showWindow(this.id, this.href, 'get', 0);" onmouseover="this.title = $('favoritenumber').innerHTML + ' 人收藏'" title="收藏本帖" class="v_favor"></a>
+    </div>
+    <div class="v_right">
+    	<div id="pgt" class="q-pgs cl">
+<div class="pgt"></div>
+</div>
+    </div>
+</div>
+</div>
+<script type='text/javascript' src='template/qu_115style/img/js/jquery-1.7.2.js'></script>
+        <script>jQuery.noConflict();</script>
+<script type='text/javascript' >
+var nt = !0;
+jQuery(window).bind("scroll",
+function() {
+var st = jQuery(document).scrollTop();
+nt = nt ? nt: jQuery("#q_vtop").offset().top;
+// document.title=st;
+var sel=jQuery("#q_vtop");
+if (nt <= st) {
+sel.addClass("q_block");
+} else {
+sel.removeClass("q_block");
+sel.addClass("q_transform");
+}
+});
+</script>
+<div class="q-view-handle" style="z-index:10;">
+        <a href="forum.php?mod=post&amp;action=reply&amp;fid=109&amp;tid=33613&amp;extra=&amp;page=1" class="tvh-reply" onclick="showWindow('reply', this.href)"><i></i><span>回复</span></a>
+        <a href="javascript:;" onclick="window.scrollTo('0','90')" class="tvh-comment"><i></i><span>3</span></a>
+</div>
+<style>
+#scrolltop{ display:none;}
+</style>
+<script type="text/javascript">var fid = parseInt('109'), tid = parseInt('33613');</script>
+
+<script src="data/cache/forum_viewthread.js?NK5" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(1);var imagemaxwidth = '600';var aimgcount = new Array();</script>
+
+<style id="diy_style" type="text/css"></style>
+<!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]-->
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">九游乐乐老站</a><em>&raquo;</em><a href="forum.php">主页</a> <em>&rsaquo;</em> <a href="forum.php?gid=36">热门版块</a> <em>&rsaquo;</em> <a href="forum.php?mod=forumdisplay&amp;fid=109">【haogame】</a> <em>&rsaquo;</em> <a href="forum.php?mod=viewthread&amp;tid=33613">克丽丝和游乐之城 Ver1.00 云汉化正式版【热门RPG/汉化/ ...</a>
+</div>
+</div>
+
+<style id="diy_style" type="text/css"></style>
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="ct" class="wp cl">
+
+
+<div id="postlist" class="pl bm">
+
+<div id="post_671236" ><table id="pid671236" class="plhin" summary="pid671236" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar671236" class="pls favatar" style="padding-top:10px;">
+ 
+<div class="p_pop blk bui card_gender_0" id="userinfo671236" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo671236_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=104134" target="_blank" class="xi2">大汉帝国</a></strong>
+<em>当前在线</em>
+</div><dl class="cl">
+<dt>积分</dt><dd><a href="home.php?mod=space&uid=104134&do=profile" target="_blank" class="xi2">4112</a></dd>
+</dl><div class="imicn">
+<a href="home.php?mod=space&amp;uid=104134&amp;do=profile" target="_blank" title="查看详细资料"><img src="template/qu_115style/images/userinfo.gif" alt="查看详细资料" /></a>
+<a href="home.php?mod=magic&amp;mid=checkonline&amp;idtype=user&amp;id=%B4%F3%BA%BA%B5%DB%B9%FA" id="a_repent_671236" class="xi2" onclick="showWindow(this.id, this.href)"><img src="static//image/magic/checkonline.small.gif" alt="" /> 雷达卡</a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo671236')"><a href="home.php?mod=space&amp;uid=104134" class="avtm" target="_blank"><img src="https://www.gameuq.com/uc_server/avatar.php?uid=104134&size=middle" /><img class='avatar_hat'  src='source/plugin/avatar_hat/template/image/69448_100.png' onload="this.parentNode.style.cssText='display:inline-block!important;position:relative!important;';this.style.display='block';" /></a></div>
+                				<div class="qing_au_pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=104134" target="_blank" class="xw1">大汉帝国</a><a href="home.php?mod=spacecp&amp;ac=profile&amp;op=verify&amp;vid=1" target="_blank"><img src="data/attachment/common/c4/common_1_verify_icon.png" class="vm" alt="官方成员" title="官方成员" /></a>
+<a href="home.php?mod=spacecp&amp;ac=profile&amp;op=verify&amp;vid=2" target="_blank"><img src="data/attachment/common/c8/common_2_verify_icon.png" class="vm" alt="特约成员" title="特约成员" /></a>
+
+</div>
+</div>
+</div>
+<style>
+.groupico img{margin-top:-5px;margin-right:5px; }
+.gerenxinxi_a,.gerenxinxi_a:hover{ text-decoration:none; font-size:12px}
+.gerenxinxi {padding: 5px;margin:10px;list-style: none;background:#fff;border: 1px dashed #D1D8D8;}
+.gerenxinxi p{ margin:1px 0px 0px 0px;  text-align:left; padding-left:8px; line-height:25px; background:#edf0f2; 
+
+color:#666; border:1px solid #e4e4e4}
+.gerenxinxi p.tpic,.gerenxinxi p.tpic:hover{ margin:0px; border:0px; line-height:30px; background:#73b8f8; font-
+
+weight:bold; background-position:0px 3px; color:#FFF;  text-align:center; }
+.gerenxinxi p:hover{ background:#666; color:#FFF}
+</style>
+<div class="tns xg2"><table cellspacing="0" cellpadding="0"><th><p><a href="home.php?mod=space&uid=104134&do=thread&type=thread&view=me&from=space" class="xi2">4027</a></p>主题</th><th><p><a href="home.php?mod=space&uid=104134&do=thread&type=reply&view=me&from=space" class="xi2">4086</a></p>帖子</th><td><p><a href="home.php?mod=space&uid=104134&do=profile" class="xi2">4112</a></p>积分</td></table></div>
+<p class="groupico"><em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=1" target="_blank">管理员</a></em></p>
+
+
+<div class="gerenxinxi">
+<p class="tpic"></p>
+<p><b>金币：</b>361867 </p>
+<p><b>钻石：</b>5923 </p>
+<p><b>提现币：</b>1 </p>
+</div>
+<p class="md_ctrl"><a href="home.php?mod=medal"><img id="md_671236_16" src="static/image/common/medal16.gif" alt="巅峰之勋" title="" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'md_16_menu', 'pos':'12!'})" /><img id="md_671236_15" src="static/image/common/medal15.gif" alt="吸金之王" title="" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'md_15_menu', 'pos':'12!'})" /><img id="md_671236_14" src="static/image/common/medal14.gif" alt="魅惑之勋" title="" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'md_14_menu', 'pos':'12!'})" /><img id="md_671236_11" src="static/image/common/medal11.gif" alt="骚气逼人" title="" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'md_11_menu', 'pos':'12!'})" /></a></p>
+<dl class="pil cl"></dl><ul class="xl xl2 o cl">
+<li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_104134&amp;touid=104134&amp;pmid=0&amp;daterange=2&amp;pid=671236&amp;tid=33613" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2">发消息</a></li>
+</ul>
+
+<style type="text/css">
+<!--
+.pcr_rand { position: absolute; z-index: 9999;overflow: visible; }
+.pcr_rand a img{ filter:alpha(opacity=8); opacity:.08; -moz-opacity: 0.8; display: block; }
+.pcr_rand a:hover img{ filter:alpha(opacity=100); opacity:100; -moz-opacity: 1; display: block; }
+.pcr_ptod1 { margin-top: 6px; margin-left: 619px; }
+-->
+</style>
+<div class="pcr_rand pcr_ptod1">
+<a href="javascript:;" title="嘿嘿~你能捉到我吗？" onclick="showWindow('pcr_ptod_33613','plugin.php?id=taobo_fishing:index&mod=post&fid=109&uid=104134&tid=33613&sign=edbc4365b8986bfbbc66cd152197c1ca&extra=&page=','get',0);"><img src="source/plugin/taobo_fishing/template/image/b_7.png" /></a>
+</div>
+
+</div>
+</td>
+<td class="plc">
+        <div class="qing_ts">					
+<span id="thread_subject">克丽丝和游乐之城 Ver1.00 云汉化正式版【热门RPG/汉化/新作/超多换装/打工/1.3G】</span><a href="forum.php?mod=viewthread&amp;tid=33613" onclick="return copyThreadUrl(this, '九游乐乐老站')"  style="font-size:12px; font-weight:400; color:#999; margin-left:5px;">[复制链接]</a>
+</div>
+                <div class="pi" style="position:relative;">
+<div class="qing_v_tj">
+<span class="qing_vt_num"><img src="template/qu_115style/img/view.png" align="absmiddle"> &nbsp;151 &nbsp;&nbsp;<img src="template/qu_115style/img/re.png" align="absmiddle">&nbsp;	3</span>
+</div>
+                                <div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi qing_authi">
+<em id="authorposton671236">发表于 <span title="2021-12-19 12:55:15">8&nbsp;小时前</span></em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=33613&amp;page=1&amp;authorid=104134" rel="nofollow">只看该作者</a>
+<span class="pipe">|</span><a href="forum.php?mod=viewthread&amp;tid=33613&amp;from=album">只看大图</a>
+<a href="forum.php?mod=viewthread&amp;tid=33613&amp;extra=&amp;ordertype=1"  class="show">倒序浏览</a>
+<span class="pipe show">|</span><a href="javascript:;" onclick="readmode($('thread_subject').innerHTML, 671236);" class="show">阅读模式</a>
+</div>
+</div>
+</div><div class="pct"><div class="a_pt"><div style="background: #FFE3E3;font-size: 18px;color: #FCF4D6;height: 60px;line-height: 30px;text-align: center;padding: 5px;border-radius: 6px;box-shadow: #ffffff 0px 0px 5px 0px inset;">
+<font color="#FF0000">提醒<span lang="en-us">:</span></font><b><font color="#5ED7AF">本站主要以</font><font color="#CC0066">百度秒传</font><font color="#5ED7AF">作为下载方式,新手不会请看<a href="thread-32839-1-1.html"><span style="text-decoration: none"><font color="#008080">教程</font></span></a></font></b><p>
+<a href="thread-14751-1-1.html" style="color: #3366FF;text-decoration:none">解压工具</a>   
+<a href="thread-19923-1-1.html" style="color: #CC0066;text-decoration:none">解压问题</a>
+<a style="color: #F0CB37; text-decoration:none" href="forum-110-1.html">
+<font color="#CCCC00">失效反馈</font>
+</a>
+</p></div></div><style type="text/css">.pcb{margin-right:0}</style><div class="pcb">
+<script src="./source/plugin/dxksst_credit/template/smartcome.js" type="text/javascript" ></script><div id="dxksst_credit_hidden"></div>
+
+<style>
+
+.dxksst_pbr {
+
+height: 12px;
+
+background-image: url(./source/plugin/dxksst_credit/images/pllb.png);
+
+background-color: #5AAF4A;
+
+background-position: 0 -16px;
+
+background-repeat: repeat-x;
+
+-webkit-border-radius: 0 6px 6px 0;
+
+-moz-border-radius: 0 6px 6px 0;
+
+border-radius:0 6px 6px 0;
+
+}
+
+.dxksst_pbg {	
+
+width: 100px;	
+
+height: 12px;
+
+background: url(./source/plugin/dxksst_credit/images/pllb.png) 0 0 repeat-x;
+
+-webkit-border-radius: 0 6px 6px 0;
+
+-moz-border-radius: 0 6px 6px 0;
+
+border-radius:0 6px 6px 0;
+
+}
+
+.dxksst_table{
+
+margin-bottom:10px;}
+
+.dxksst_title{
+
+float:right;}
+
+</style>
+
+<input type="hidden" id="dxksst_credit_have_671236" value="0">
+
+<table width="100%" class="dxksst_table">
+
+  <tr>
+
+    <td>&nbsp;</td>
+
+    <td align="right">楼主可信度：</td>
+
+    <td align="center" width="120px;"><div class="dxksst_pbg" align="left" title="35%">
+
+<div class="dxksst_pbr"  id="dxksst_credit_t_671236" style="width: 35%; background-color:#33CC00" >&nbsp;</div>
+
+</div></td>
+
+    <td width="160px" align="center" ><em id="dxksst_credit_671236">35%&nbsp;<font color="#FF0000">(756)</font></em>&nbsp;<a class="dxksst_title"  href="javascript:;" onclick="dxksst_credit_agree(100,150131,104134,'恭喜你，操作成功','亲,怎么能给自己投票呢:-D!',671236,'亲,你好像已经投过票了:-D!','1b7968dd')"><font color="#33CC00">【我投】</font></a></td>
+
+  </tr>
+
+  <tr style="padding-top:10px;">
+
+    <td>&nbsp;</td>
+
+    <td align="right">楼主可疑度：</td>
+
+    <td align="center" width="120px;"><div class="dxksst_pbg" align="left" title="65%">
+
+<div class="dxksst_pbr" id="dxksst_dcredit_t_671236" style="width: 65%; background-color:#CC0066" >&nbsp;</div>
+
+</div></td>
+
+    <td width="160px" align="center"><em id="dxksst_dcredit_671236" >65%&nbsp;<font color="#FF0000">(1380)</font></em>&nbsp;<a  class="dxksst_title" href="javascript:;" onclick="dxksst_credit_agree(0,150131,104134,'恭喜你，操作成功','亲,怎么能给自己投票呢:-D!',671236,'亲,你好像已经投过票了:-D!','1b7968dd')"><font color="#CC0066">【我投】</font></a></td>
+
+  </tr>
+
+</table>
+
+
+
+<div align="right">
+
+</div>
+
+ 
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_671236">
+<script>
+		   
+		    function checkurl(obj)
+			{
+			   data=obj.attr("data");
+			   obj.html('<img src="static/image/common/loading.gif"/>正在验证，请稍等');
+			   jQuery.ajax({
+			       url:"/tiket.php",
+				   data:{data:data},
+				   success:function(result)
+				   {
+				   
+				      if(result=="true"){
+					  
+					     showDialog(" 恭 喜 ！连接有效 赶快下载吧！", "notice");
+						 obj.html('<font color="#00CC99"><b>链接有效</b></font>');
+					  }else if(result=="false"){
+					  
+					     showDialog(" 很遗憾! 你来晚了,连接失效了,请到互助版块发帖申报 以便我们补档!", "notice");
+						 obj.html('<font color="#808080"><b>链接无效</b></font>');
+					  }
+				      
+					  
+				   }
+			     
+			      
+			   })
+			
+			    
+			}
+		
+		  </script><img id="aimg_EcCcQ" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" width="500" height="292" file="https://www.acgwm.net/data/attachment/forum/202112/17/154828blttt7fp6fxsshn6.jpg" border="0" alt="" /><br />
+<font size="3"><br />
+</font><br />
+<font size="3"><br />
+</font><br />
+<font size="3"><font color="darkred">为大家共享一款超多要素的RPG新作游戏：</font><br />
+<br />
+<font color="magenta">克丽丝和游乐之城 Ver1.00 云汉化正式版</font><br />
+<br />
+<font color="olive">游戏概述：</font><br />
+这是<font color="deepskyblue">【くもがくれ。】</font>社在<font color="red">2021年10月</font>发布的一款销量超高的热门RPG游戏。<br />
+<font color="blue">讲述大欧派御姐精灵作为世界树祭司被分配到游乐城担任神官发生的系列故事。</font><br />
+<font color="red">有多达21种换装设定，132种≠口事件和阶段变化，超大量分支剧情事件探索。</font><br />
+<font color="purple">游戏画风超赞，是典型的成熟御姐风，有战斗也有卖身和≠口打工赚钱等玩法。</font><br />
+<font color="darkorange">游戏已加载了云翻软件，直接选择【与工具运行】就会直接加载云汉化版本。</font><br />
+<br />
+</font><img id="aimg_PSFLl" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" width="500" file="https://www.acgwm.net/data/attachment/forum/202112/17/154828pdruyxy1geruxa5u.jpg" border="0" alt="" /><font size="3"><br />
+<br />
+<font color="olive">游戏概述：</font><br />
+克丽斯蒂娜是一名被分配到游乐街的魔法精灵牧师。<br />
+<font color="blue">她每天都在研究各种精灵之力和拥有魔力的服装，</font><br />
+<font color="red">以解决城里大家的各种问题，但是代价就是巨额的经费...</font><br />
+<font color="purple">在城里赚钱并不困难，只要去各种各样的店里进行打工。<br />
+</font><font color="darkorange">然而...事情并没有克丽丝想的那么简单。</font><br />
+<font color="magenta">这些打工貌似都充满了桃色的气息...</font><br />
+<br />
+</font><img id="aimg_DJJ51" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" width="500" file="https://www.acgwm.net/data/attachment/forum/202112/17/154829v57pp9uaebpbz56e.jpg" border="0" alt="" /><font size="3"><br />
+<br />
+<font color="olive">游戏特点：</font><br />
+<font color="darkred">-拥有35种基本CG，1350种分差（不包括立绘变化）</font><br />
+<font color="red">-拥有135种≠口事件，包括各种不同阶段的≠口，丰富到爆炸！</font><br />
+<font color="purple">-拥有21种不同的换装，包括讨厌程度的变化。</font><br />
+<font color="blue">-大部分都是克丽丝被城里的市民骚扰或捉弄，打工时被揩油，以及败北事件。<br />
+</font><font color="teal">-根据XP变化不同，身体上会有不同特征变化，比如各种环，银纹和鹿出度等。</font><br />
+<font color="darkorange">-根据解锁各种事件，会获得称号，共超过100种以上称号。</font><br />
+<font color="magenta">-身体有详尽的H数据变化，分为四个部位详尽记录，非常精致的设定。</font></font><br />
+<br />
+
+<ignore_js_op>
+
+<img id="aimg_53992" aid="53992" src="static/image/common/none.gif" zoomfile="./data/attachment/forum/202112/17/155604wenbfx4nmm28467n.jpg" file="./data/attachment/forum/202112/17/155604wenbfx4nmm28467n.jpg" class="zoom" onclick="zoom(this, this.src, 0, 0, 0)" width="499" id="aimg_53992" inpost="1" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" />
+
+<div class="tip tip_4 aimg_tip" id="aimg_53992_menu" style="position: absolute; display: none" disautofocus="true">
+<div class="xs0">
+<p><strong>d2c3apwm71.jpg</strong> <em class="xg1">(14.75 KB, 下载次数: 0)</em></p>
+<p>
+
+
+</p>
+
+<p class="xg1 y"><span title="2021-12-17 15:56">前天&nbsp;15:56</span> 上传</p>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+
+</ignore_js_op>
+<br />
+<br />
+<img id="aimg_ATfZ8" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" width="500" file="https://www.acgwm.net/data/attachment/forum/202112/17/154830dp1p5pnnud6ywuvp.jpg" border="0" alt="" /><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<font face="微软雅黑"><font size="3"><font color="navy"><font color="red">游戏云翻的打开方式：</font></font><br />
+<font color="#ff0000">【新版插件】【云翻安装方法】</font><br />
+<font color="#ff0000">1.打开MTool_A10U13中的工具图标文件</font><br />
+<font color="#ff0000">2.按照说明拖入game.exe安装插件运行</font><br />
+<font color="#ff0000">3.翻译完毕后，还需执行加载翻译文件</font><br />
+<font color="#ff0000">4.保持插件运行状态，退出游戏一次再开启就是汉化。</font></font></font><br />
+<br />
+（Y21-12-17-03）<br />
+<br />
+<br />
+………………………………………………………………………………<br />
+<strong><font size="4"><font color="#ff8c00">金币下载：</font><br />
+</font></strong><div class="locked">本内容需要支付 <strong>50金币</strong> 才能浏览&nbsp;<span style="display:inline-block;"></span><a href="javascript:" id="0"  data="aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMV9XNHV6RGZuZTJtcno5VmxzTDBSdkEmbmJzcA==" onclick="checkurl(jQuery(this));return false;"><font color="#CC3300"><b><span style="background-color: #FFFF00">点击检测有效性</span></b></font></a><a href="javascript:;" class="y viewpay" title="内容购买" onclick="showWindow('dc_sell', 'plugin.php?id=dc_sell:pay&sid=NjcxMjM2fDEwNDEzNHwwfDUwfDJ8MTYzOTkxODczMHxlNmE1ODZiNw==&tid=33613')">支付</a></div><br />
+………………………………………………………………………………<br />
+</td></tr></table>
+
+
+</div>
+<div id="comment_671236" class="cm">
+</div>
+
+<div id="post_rate_div_671236"></div>
+
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+<div id="p_btn" class="mtw mbm hm cl">
+
+<a href="home.php?mod=spacecp&amp;ac=favorite&amp;type=thread&amp;id=33613&amp;formhash=1b7968dd" id="k_favorite" onclick="showWindow(this.id, this.href, 'get', 0);" onmouseover="this.title = $('favoritenumber').innerHTML + ' 人收藏'" title="收藏本帖"><i><img src="template/qu_115style/images/fav.gif" alt="收藏" />收藏<span id="favoritenumber">10</span></i></a>
+<a id="recommend_add" href="forum.php?mod=misc&amp;action=recommend&amp;do=add&amp;tid=33613&amp;hash=1b7968dd" onclick="ajaxmenu(this, 3000, 1, 0, '43', 'recommendupdate(1)');return false;" onmouseover="this.title = $('recommendv_add').innerHTML + ' 人顶'" title="顶一下"><i><img src="template/qu_115style/images/rec_add.gif" alt="顶" />顶<span id="recommendv_add">1</span></i></a>
+<a id="recommend_subtract" href="forum.php?mod=misc&amp;action=recommend&amp;do=subtract&amp;tid=33613&amp;hash=1b7968dd" onclick="ajaxmenu(this, 3000, 1, 0, '43', 'recommendupdate(-1)');return false;" onmouseover="this.title = $('recommendv_subtract').innerHTML + ' 人踩'" title="踩一下"><i><img src="template/qu_115style/images/rec_subtract.gif" alt="踩" />踩<span id="recommendv_subtract" style="display:none">0</span></i></a>
+</div>
+</td>
+</tr>
+<tr id="_postposition671236"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=109&amp;tid=33613&amp;reppost=671236&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_671236" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport671236', 'misc.php?mod=report&rtype=post&rid=671236&tid=33613&fid=109', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_671236_menu" class="p_pop mgcmn" style="display: none;">
+<li><a href="home.php?mod=magic&amp;mid=bump&amp;idtype=tid&amp;id=33613" id="a_bump" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/bump.small.gif" />提升卡</a></li>
+<li><a href="home.php?mod=magic&amp;mid=stick&amp;idtype=tid&amp;id=33613" id="a_stick" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/stick.small.gif" />置顶卡</a></li>
+<li><a href="home.php?mod=magic&amp;mid=highlight&amp;idtype=tid&amp;id=33613" id="a_stick" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/highlight.small.gif" />变色卡</a></li>
+<li><a href="home.php?mod=magic&amp;mid=jack&amp;idtype=tid&amp;id=33613" id="a_jack" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/jack.small.gif" />千斤顶</a></li>
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_671236')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+<script type="text/javascript" reload="1">
+aimgcount[671236] = ['EcCcQ','PSFLl','DJJ51','ATfZ8','53992'];
+attachimggroup(671236);
+var aimgfid = 0;
+</script>
+</div><div id="post_671450" ><table id="pid671450" class="plhin" summary="pid671450" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar671450" class="pls favatar" style="padding-top:10px;">
+ 
+<div class="p_pop blk bui card_gender_2" id="userinfo671450" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo671450_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=79687" target="_blank" class="xi2">为啥微信不能用</a></strong>
+<em>当前在线</em>
+</div><dl class="cl">
+<dt>积分</dt><dd><a href="home.php?mod=space&uid=79687&do=profile" target="_blank" class="xi2">138</a></dd>
+</dl><div class="imicn">
+<a href="javascript:;" onclick="window.open('http://amos.im.alisoft.com/msg.aw?v=2&uid='+encodeURIComponent('无')+'&site=cntaobao&s=2&charset=utf-8')" title="阿里旺旺"><img src="template/qu_115style/images/taobao.gif" alt="阿里旺旺" /></a><a href="http://no" target="_blank" title="查看个人网站"><img src="template/qu_115style/images/forumlink.gif" alt="查看个人网站" /></a><a href="home.php?mod=space&amp;uid=79687&amp;do=profile" target="_blank" title="查看详细资料"><img src="template/qu_115style/images/userinfo.gif" alt="查看详细资料" /></a>
+<a href="home.php?mod=magic&amp;mid=checkonline&amp;idtype=user&amp;id=%CE%AA%C9%B6%CE%A2%D0%C5%B2%BB%C4%DC%D3%C3" id="a_repent_671450" class="xi2" onclick="showWindow(this.id, this.href)"><img src="static//image/magic/checkonline.small.gif" alt="" /> 雷达卡</a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo671450')"><a href="home.php?mod=space&amp;uid=79687" class="avtm" target="_blank"><img src="https://www.gameuq.com/uc_server/avatar.php?uid=79687&size=middle" /></a></div>
+                				<div class="qing_au_pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=79687" target="_blank" class="xw1">为啥微信不能用</a>
+</div>
+</div>
+</div>
+<style>
+.groupico img{margin-top:-5px;margin-right:5px; }
+.gerenxinxi_a,.gerenxinxi_a:hover{ text-decoration:none; font-size:12px}
+.gerenxinxi {padding: 5px;margin:10px;list-style: none;background:#fff;border: 1px dashed #D1D8D8;}
+.gerenxinxi p{ margin:1px 0px 0px 0px;  text-align:left; padding-left:8px; line-height:25px; background:#edf0f2; 
+
+color:#666; border:1px solid #e4e4e4}
+.gerenxinxi p.tpic,.gerenxinxi p.tpic:hover{ margin:0px; border:0px; line-height:30px; background:#73b8f8; font-
+
+weight:bold; background-position:0px 3px; color:#FFF;  text-align:center; }
+.gerenxinxi p:hover{ background:#666; color:#FFF}
+</style>
+<div class="tns xg2"><table cellspacing="0" cellpadding="0"><th><p><a href="home.php?mod=space&uid=79687&do=thread&type=thread&view=me&from=space" class="xi2">3</a></p>主题</th><th><p><a href="home.php?mod=space&uid=79687&do=thread&type=reply&view=me&from=space" class="xi2">131</a></p>帖子</th><td><p><a href="home.php?mod=space&uid=79687&do=profile" class="xi2">138</a></p>积分</td></table></div>
+<p class="groupico"><em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=11" target="_blank">注册会员</a></em></p>
+
+
+<p><span class="pbg2"  id="upgradeprogress_671450" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!', 'menuid':'g_up671450_menu'});"><span class="pbr2" style="width:58%;"></span></span></p>
+<div id="g_up671450_menu" class="tip tip_4" style="display: none;"><div class="tip_horn"></div><div class="tip_c">注册会员, 积分 138, 距离下一级还需 62 积分</div></div>
+
+<div class="gerenxinxi">
+<p class="tpic"></p>
+<p><b>金币：</b>288 </p>
+<p><b>钻石：</b>0 </p>
+<p><b>提现币：</b>0 </p>
+</div>
+
+<dl class="pil cl"></dl><ul class="xl xl2 o cl">
+<li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_79687&amp;touid=79687&amp;pmid=0&amp;daterange=2&amp;pid=671450&amp;tid=33613" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2">发消息</a></li>
+</ul>
+</div>
+</td>
+<td class="plc">
+    <div class="pi" style="position:relative;">
+                <strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=33613&pid=671450"   id="postnum671450" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+沙发</a>
+</strong>
+                <div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi qing_authi">
+<em id="authorposton671450">发表于 <span title="2021-12-19 14:40:57">6&nbsp;小时前</span></em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=33613&amp;page=1&amp;authorid=79687" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_671450">
+支持楼主</td></tr></table>
+
+
+</div>
+<div id="comment_671450" class="cm">
+</div>
+
+<div id="post_rate_div_671450"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition671450"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=109&amp;tid=33613&amp;repquote=671450&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_671450" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport671450', 'misc.php?mod=report&rtype=post&rid=671450&tid=33613&fid=109', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_671450_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_671450')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_671460" ><table id="pid671460" class="plhin" summary="pid671460" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar671460" class="pls favatar" style="padding-top:10px;">
+ 
+<div class="p_pop blk bui card_gender_1" id="userinfo671460" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo671460_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=108898" target="_blank" class="xi2">DaiHenTai</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>积分</dt><dd><a href="home.php?mod=space&uid=108898&do=profile" target="_blank" class="xi2">432</a></dd>
+</dl><div class="imicn">
+<a href="home.php?mod=space&amp;uid=108898&amp;do=profile" target="_blank" title="查看详细资料"><img src="template/qu_115style/images/userinfo.gif" alt="查看详细资料" /></a>
+<a href="home.php?mod=magic&amp;mid=checkonline&amp;idtype=user&amp;id=DaiHenTai" id="a_repent_671460" class="xi2" onclick="showWindow(this.id, this.href)"><img src="static//image/magic/checkonline.small.gif" alt="" /> 雷达卡</a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo671460')"><a href="home.php?mod=space&amp;uid=108898" class="avtm" target="_blank"><img src="https://www.gameuq.com/uc_server/avatar.php?uid=108898&size=middle" /></a></div>
+                				<div class="qing_au_pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=108898" target="_blank" class="xw1">DaiHenTai</a>
+</div>
+</div>
+</div>
+<style>
+.groupico img{margin-top:-5px;margin-right:5px; }
+.gerenxinxi_a,.gerenxinxi_a:hover{ text-decoration:none; font-size:12px}
+.gerenxinxi {padding: 5px;margin:10px;list-style: none;background:#fff;border: 1px dashed #D1D8D8;}
+.gerenxinxi p{ margin:1px 0px 0px 0px;  text-align:left; padding-left:8px; line-height:25px; background:#edf0f2; 
+
+color:#666; border:1px solid #e4e4e4}
+.gerenxinxi p.tpic,.gerenxinxi p.tpic:hover{ margin:0px; border:0px; line-height:30px; background:#73b8f8; font-
+
+weight:bold; background-position:0px 3px; color:#FFF;  text-align:center; }
+.gerenxinxi p:hover{ background:#666; color:#FFF}
+</style>
+<div class="tns xg2"><table cellspacing="0" cellpadding="0"><th><p><a href="home.php?mod=space&uid=108898&do=thread&type=thread&view=me&from=space" class="xi2">8</a></p>主题</th><th><p><a href="home.php?mod=space&uid=108898&do=thread&type=reply&view=me&from=space" class="xi2">432</a></p>帖子</th><td><p><a href="home.php?mod=space&uid=108898&do=profile" class="xi2">432</a></p>积分</td></table></div>
+<p class="groupico"><em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=12" target="_blank">中级会员</a></em></p>
+
+
+<p><span class="pbg2"  id="upgradeprogress_671460" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!', 'menuid':'g_up671460_menu'});"><span class="pbr2" style="width:77%;"></span></span></p>
+<div id="g_up671460_menu" class="tip tip_4" style="display: none;"><div class="tip_horn"></div><div class="tip_c">中级会员, 积分 432, 距离下一级还需 68 积分</div></div>
+
+<div class="gerenxinxi">
+<p class="tpic"></p>
+<p><b>金币：</b>2858 </p>
+<p><b>钻石：</b>2 </p>
+<p><b>提现币：</b>0 </p>
+</div>
+
+<dl class="pil cl"></dl><ul class="xl xl2 o cl">
+<li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_108898&amp;touid=108898&amp;pmid=0&amp;daterange=2&amp;pid=671460&amp;tid=33613" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2">发消息</a></li>
+</ul>
+</div>
+</td>
+<td class="plc">
+    <div class="pi" style="position:relative;">
+                <strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=33613&pid=671460"   id="postnum671460" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+板凳</a>
+</strong>
+                <div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi qing_authi">
+<em id="authorposton671460">发表于 <span title="2021-12-19 15:13:57">5&nbsp;小时前</span></em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=33613&amp;page=1&amp;authorid=108898" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_671460">
+支持楼主</td></tr></table>
+
+
+</div>
+<div id="comment_671460" class="cm">
+</div>
+
+<div id="post_rate_div_671460"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition671460"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=109&amp;tid=33613&amp;repquote=671460&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_671460" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport671460', 'misc.php?mod=report&rtype=post&rid=671460&tid=33613&fid=109', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_671460_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_671460')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_671477" ><table id="pid671477" class="plhin" summary="pid671477" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar671477" class="pls favatar" style="padding-top:10px;">
+ <a name="lastpost"></a>
+<div class="p_pop blk bui card_gender_0" id="userinfo671477" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo671477_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=17250" target="_blank" class="xi2">沉沦</a></strong>
+<em>当前在线</em>
+</div><dl class="cl">
+<dt>积分</dt><dd><a href="home.php?mod=space&uid=17250&do=profile" target="_blank" class="xi2">187</a></dd>
+</dl><div class="imicn">
+<a href="home.php?mod=space&amp;uid=17250&amp;do=profile" target="_blank" title="查看详细资料"><img src="template/qu_115style/images/userinfo.gif" alt="查看详细资料" /></a>
+<a href="home.php?mod=magic&amp;mid=checkonline&amp;idtype=user&amp;id=%B3%C1%C2%D9" id="a_repent_671477" class="xi2" onclick="showWindow(this.id, this.href)"><img src="static//image/magic/checkonline.small.gif" alt="" /> 雷达卡</a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo671477')"><a href="home.php?mod=space&amp;uid=17250" class="avtm" target="_blank"><img src="https://www.gameuq.com/uc_server/avatar.php?uid=17250&size=middle" /></a></div>
+                				<div class="qing_au_pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=17250" target="_blank" class="xw1">沉沦</a>
+</div>
+</div>
+</div>
+<style>
+.groupico img{margin-top:-5px;margin-right:5px; }
+.gerenxinxi_a,.gerenxinxi_a:hover{ text-decoration:none; font-size:12px}
+.gerenxinxi {padding: 5px;margin:10px;list-style: none;background:#fff;border: 1px dashed #D1D8D8;}
+.gerenxinxi p{ margin:1px 0px 0px 0px;  text-align:left; padding-left:8px; line-height:25px; background:#edf0f2; 
+
+color:#666; border:1px solid #e4e4e4}
+.gerenxinxi p.tpic,.gerenxinxi p.tpic:hover{ margin:0px; border:0px; line-height:30px; background:#73b8f8; font-
+
+weight:bold; background-position:0px 3px; color:#FFF;  text-align:center; }
+.gerenxinxi p:hover{ background:#666; color:#FFF}
+</style>
+<div class="tns xg2"><table cellspacing="0" cellpadding="0"><th><p><a href="home.php?mod=space&uid=17250&do=thread&type=thread&view=me&from=space" class="xi2">3</a></p>主题</th><th><p><a href="home.php?mod=space&uid=17250&do=thread&type=reply&view=me&from=space" class="xi2">179</a></p>帖子</th><td><p><a href="home.php?mod=space&uid=17250&do=profile" class="xi2">187</a></p>积分</td></table></div>
+<p class="groupico"><em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=11" target="_blank">注册会员</a></em></p>
+
+
+<p><span class="pbg2"  id="upgradeprogress_671477" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!', 'menuid':'g_up671477_menu'});"><span class="pbr2" style="width:91%;"></span></span></p>
+<div id="g_up671477_menu" class="tip tip_4" style="display: none;"><div class="tip_horn"></div><div class="tip_c">注册会员, 积分 187, 距离下一级还需 13 积分</div></div>
+
+<div class="gerenxinxi">
+<p class="tpic"></p>
+<p><b>金币：</b>13 </p>
+<p><b>钻石：</b>1 </p>
+<p><b>提现币：</b>0 </p>
+</div>
+
+<dl class="pil cl"></dl><ul class="xl xl2 o cl">
+<li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_17250&amp;touid=17250&amp;pmid=0&amp;daterange=2&amp;pid=671477&amp;tid=33613" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2">发消息</a></li>
+</ul>
+</div>
+</td>
+<td class="plc">
+    <div class="pi" style="position:relative;">
+                <strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=33613&pid=671477"   id="postnum671477" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+地板</a>
+</strong>
+                <div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi qing_authi">
+<em id="authorposton671477">发表于 <span title="2021-12-19 18:42:57">2&nbsp;小时前</span></em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=33613&amp;page=1&amp;authorid=17250" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_671477">
+支持楼主</td></tr></table>
+
+
+</div>
+<div id="comment_671477" class="cm">
+</div>
+
+<div id="post_rate_div_671477"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition671477"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=109&amp;tid=33613&amp;repquote=671477&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_671477" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport671477', 'misc.php?mod=report&rtype=post&rid=671477&tid=33613&fid=109', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_671477_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_671477')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="postlistreply" class="pl"><div id="post_new" class="viewthread_table" style="display: none"></div></div>
+</div>
+
+
+<form method="post" autocomplete="off" name="modactions" id="modactions">
+<input type="hidden" name="formhash" value="1b7968dd" />
+<input type="hidden" name="optgroup" />
+<input type="hidden" name="operation" />
+<input type="hidden" name="listextra" value="" />
+<input type="hidden" name="page" value="1" />
+</form>
+
+
+<div class="pgs mtm mbm cl" style="border-bottom:1px solid #f2f2f2; padding-bottom:10px ;">
+<span class="pgb y" id="visitedforumstmp" onmouseover="$('visitedforums').id = 'visitedforumstmp';this.id = 'visitedforums';showMenu({'ctrlid':this.id,'pos':'21'})"><a href="forum.php?mod=forumdisplay&amp;fid=109">返回列表</a></span>
+<a id="newspecialtmp" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=109')" href="javascript:;" title="发新帖"><img src="template/qu_115style/images/pn_post.png" alt="发新帖" /></a>
+</div>
+
+<!--[diy=diyfastposttop]--><div id="diyfastposttop" class="area"></div><!--[/diy]-->
+<script type="text/javascript">
+var postminchars = parseInt('1');
+var postmaxchars = parseInt('80000');
+var disablepostctrl = parseInt('0');
+</script>
+
+<div id="f_pst" class="pl bm">
+<form method="post" autocomplete="off" id="fastpostform" action="forum.php?mod=post&amp;action=reply&amp;fid=109&amp;tid=33613&amp;extra=&amp;replysubmit=yes&amp;infloat=yes&amp;handlekey=fastpost" onSubmit="return fastpostvalidate(this)">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls">
+<div class="avatar avtm"><img src="https://www.gameuq.com/uc_server/avatar.php?uid=150131&size=middle" /></div></td>
+<td class="plc">
+
+
+<!--
+[Top Design Team] (C)2010-2099 www.9rao.com.
+This is NOT a freeware, use is subject to license terms
+-->
+
+
+<link href="source/plugin/top_fastreply/image/top_fastreply.css" rel="stylesheet" type="text/css" />
+
+<style>
+.div_taobo{border:1px dashed #FF99CC;}
+.button_taobo {background-color: #FF99CC;}
+.font_taobo {color: #FF99CC;}
+</style>
+
+<script  type="text/javascript">
+
+function addmsg_taobo(selectmsg_taobo){
+var selectmsg_taobo;
+seditor_insertunit('fastpost',selectmsg_taobo);
+gete_taobo("div1_taobo").innerHTML = "<span class='font_taobo'><img src='source/plugin/top_fastreply/image/finish_taobo.png'> 快捷回复已为您填写了内容，感谢您对楼主的回复！</span>";
+}
+
+        function gete_taobo(id){
+            return document.getElementById(id);
+        }
+        
+
+</script>
+
+
+
+<div id="div1_taobo" class="div_taobo">
+<span class='font_taobo'><img src="source/plugin/top_fastreply/image/select_taobo.png"> 这里是快捷回复:</span>  <span class="button_taobo" onclick="addmsg_taobo('支持楼主')" title="支持楼主">支持</span>
+<span class="button_taobo" onclick="addmsg_taobo('太高兴了')" title="太高兴了">高兴</span>
+<span class="button_taobo" onclick="addmsg_taobo('激动人心')" title="激动人心">激动</span>
+<span class="button_taobo" onclick="addmsg_taobo('真是难得')" title="真是难得">给力</span>
+<span class="button_taobo" onclick="addmsg_taobo('楼主加油')" title="楼主加油">加油</span>
+<span class="button_taobo" onclick="addmsg_taobo('打酱油的')" title="打酱油的">路过</span>
+
+</div>
+
+
+<span id="fastpostreturn"></span>
+
+
+<div class="cl">
+<div id="fastsmiliesdiv" class="y"><div id="fastsmiliesdiv_data"><div id="fastsmilies"></div></div></div><div class="hasfsl" id="fastposteditor">
+<div class="tedt mtn">
+<div class="bar">
+<span class="y">
+<a href="forum.php?mod=post&amp;action=reply&amp;fid=109&amp;tid=33613" onclick="return switchAdvanceMode(this.href)">高级模式</a>
+</span><script src="data/cache/seditor.js?NK5" type="text/javascript"></script>
+<div class="fpd">
+<a href="javascript:;" title="文字加粗" class="fbld" onclick="seditor_insertunit('fastpost', '[b]', '[/b]');doane(event);">B</a>
+<a href="javascript:;" title="设置文字颜色" class="fclr" id="fastpostforecolor" onclick="showColorBox(this.id, 2, 'fastpost');doane(event);">Color</a>
+<a id="fastpostimg" href="javascript:;" title="图片" class="fmg" onclick="seditor_menu('fastpost', 'img');doane(event);">Image</a>
+<a id="fastposturl" href="javascript:;" title="添加链接" class="flnk" onclick="seditor_menu('fastpost', 'url');doane(event);">Link</a>
+<a id="fastpostquote" href="javascript:;" title="引用" class="fqt" onclick="seditor_menu('fastpost', 'quote');doane(event);">Quote</a>
+<a id="fastpostcode" href="javascript:;" title="代码" class="fcd" onclick="seditor_menu('fastpost', 'code');doane(event);">Code</a>
+<a href="javascript:;" class="fsml" id="fastpostsml" onclick="showMenu({'ctrlid':this.id,'evt':'click','layer':2});return false;">Smilies</a>
+<script type="text/javascript" reload="1">smilies_show('fastpostsmiliesdiv', 8, 'fastpost');</script>
+</div></div>
+<div class="area">
+<textarea rows="6" cols="80" name="message" id="fastpostmessage" onKeyDown="seditor_ctlent(event, 'fastpostvalidate($(\'fastpostform\'))');" tabindex="4" class="pt"></textarea>
+</div>
+</div>
+</div>
+</div>
+<div id="seccheck_fastpost">
+</div>
+
+
+<input type="hidden" name="formhash" value="1b7968dd" />
+<input type="hidden" name="usesig" value="1" />
+<input type="hidden" name="subject" value="  " />
+<p class="ptm pnpost q_fastpost">
+<a href="home.php?mod=spacecp&amp;ac=credit&amp;op=rule&amp;fid=109" class="y" target="_blank">本版积分规则</a>
+<button type="submit" onmouseover="checkpostrule('seccheck_fastpost', 'ac=reply');this.onmouseover=null" name="replysubmit" id="fastpostsubmit" class="" value="replysubmit" tabindex="5"><strong>&nbsp;&nbsp;&nbsp;发表</strong></button>
+<div style="width:99%; line-height:15px; background:#fff7a0; border:#aa9c03 1px dotted; font-size:12px;padding:5px; clear:both; margin-top:5px"><FONT color=#5087DA>■</FONT>1、请认真发帖，禁止回复纯表情，纯数字等无意义的内容！<br><FONT color=#5087DA>■</FONT>2、即日起 本站回帖与发帖不奖励积分！</div> <label for="fastpostrefresh"><input id="fastpostrefresh" type="checkbox" class="pc" />回帖后跳转到最后一页</label>
+<script type="text/javascript">if(getcookie('fastpostrefresh') == 1) {$('fastpostrefresh').checked=true;}</script>
+</p>
+</td>
+</tr>
+</table>
+</form>
+</div>
+
+<div id="visitedforums_menu" class="p_pop blk cl" style="display: none;">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td id="v_forums">
+<h3 class="mbn pbn bbda xg1">浏览过的版块</h3>
+<ul class="xl xl1">
+<li><a href="forum.php?mod=forumdisplay&fid=101">【 动画剧场 】</a></li><li><a href="forum.php?mod=forumdisplay&fid=41">【 单机游戏 】</a></li><li><a href="forum.php?mod=forumdisplay&fid=85">【精选整理 】</a></li><li><a href="forum.php?mod=forumdisplay&fid=45">站内公告</a></li><li><a href="forum.php?mod=forumdisplay&fid=108">悬赏任务</a></li></ul>
+</td>
+</tr>
+</table>
+</div>
+<div id="md_16_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c">
+<h4>巅峰之勋</h4>
+<p>本站最高荣誉,神一般的存在</p>
+</div>
+</div>
+<div id="md_15_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c">
+<h4>吸金之王</h4>
+<p>本站最会赚钱的人</p>
+</div>
+</div>
+<div id="md_14_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c">
+<h4>魅惑之勋</h4>
+<p>魅力无限,无人能级</p>
+</div>
+</div>
+<div id="md_11_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c">
+<h4>骚气逼人</h4>
+<p>十分潇洒浪荡 堪称九游一骚</p>
+</div>
+</div>
+<script type="text/javascript">
+new lazyload();
+</script>
+<script type="text/javascript">document.onkeyup = function(e){keyPageScroll(e, 0, 0, 'forum.php?mod=viewthread&tid=33613', 1);}</script>
+</div>
+
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+
+<script type="text/javascript">
+function succeedhandle_followmod(url, msg, values) {
+var fObj = $('followmod_'+values['fuid']);
+if(values['type'] == 'add') {
+fObj.innerHTML = '不收听';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=del&fuid='+values['fuid'];
+} else if(values['type'] == 'del') {
+fObj.innerHTML = '收听TA';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=add&hash=1b7968dd&fuid='+values['fuid'];
+}
+}
+fixed_avatar([671236,671450,671460,671477], 1);
+</script>	</div>
+<script>boan_jq('#SWFUpload_0').hide();boan_jq('#spanButtonPlaceholder').hide()</script><div id="ft" class="wp cl">
+<div id="flk" class="y">
+<table width="1240" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="30" align="center" bgcolor="#FFFFFF">				
+<font color="#FFFFFF"><a href="javascript:;"  onclick="showWindow('miscreport', 'misc.php?mod=report&url='+REPORTURL);return false;">举报</a><span class="pipe">|</span><a href="forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span>( <a>鄂ICP备19004110号-5</a> )<script type="text/javascript" src="/source/plugin/shenlan_lazyload/jquery.min.js"></script>
+<script type="text/javascript" src="/source/plugin/shenlan_lazyload/jquery.lazyload.js"></script>
+<script type="text/javascript">
+	var jQuery=$.noConflict();
+	jQuery("img:not(#nolazyid),img:not(.nolazyclass)").lazyload({
+        placeholder : "source/plugin/shenlan_lazyload/grey.gif", 
+        threshold: "50",
+		effect : "fadeIn",
+		failure_limit : "10"});
+</script><style type="text/css">
+
+#u179stranlink{color: #FF0000 !important;}
+#nv #u179stranlink {
+line-height: 33px;
+height: 33px;
+}
+</style>
+<p style="display: none; height:0px; width:0px; " ><a title="javascript u179 and vcpic go js and css" href="#">JS of wanmeiff.com and vcpic.com Please keep this copyright information, respect of, thank you!</a><a  title="javascript u179 and vcpic go js and css" href="#">JS of wanmeiff.com and vcpic.com Please keep this copyright information, respect of, thank you!</a></p>
+<script type="text/javascript" language="javascript"> var Default_isFT = 0 </script><SCRIPT language=Javascript src="source/plugin/u179_jtft/u179_js/12344279923_gbk.js"></SCRIPT> <span class="pipe">|</span><a href="sitemap.xml" target="_blank" title="网站地图">网站地图</a><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?0383cc3b76314357f659405ae4249263";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</font></td>
+  </tr>
+  <tr>
+    <td height="20" align="center">
+<font size="2" color="#0073AA">本网站所有内容均收集于互联网,由程序自动采集或网友分享和网盘所提供的公开引用资源,也不参与破解,上传,如有侵權行為，請發郵件至&nbsp;</span></font><font color="#800000">zgvfcs@163.com</font></font><tr>
+<td align="center">
+<font size="2" color="#0073AA">侵害がある場合は、&nbsp;に電子メールを送ってください ----If there is any infringement, 
+please send an email to&nbsp;zgvfcs@163.com</span></font></td></tr></script>
+</div>
+
+<div id="g_upmine_menu" class="tip tip_3" style="display:none;">
+<div class="tip_c">
+积分 29, 距离下一级还需  积分
+</div>
+<div class="tip_horn"></div>
+</div>
+<span id="scrolltop" onclick="window.scrollTo('0','0')">返回顶部</span>
+<script type="text/javascript">_attachEvent(window, 'scroll', function(){showTopLink();});</script></body>
+</html>
