@@ -25,6 +25,7 @@ jobs:
         if: env.BBB_bububaoTOKEN
         run: |
           cd ~/yangquan
+          #切换分支
           git checkout main
           npm install
       - name: '运行 【宝】'
