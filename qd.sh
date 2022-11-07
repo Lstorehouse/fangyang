@@ -13,6 +13,6 @@ echo "msg 💘粿粿|PornembyBot /start"
 echo "msg iKuuuu_VPN /checkin"
 echo "msg 泡芙Bot /checkin"
 echo "msg 卷心菜 /checkin"
-echo "msg VV Network /checkin"
+echo "msg VV_Network /checkin"
 echo "safe_quit"
 ) | ${telegramPath}telegram-cli -W -D
